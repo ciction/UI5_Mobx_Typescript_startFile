@@ -19,7 +19,9 @@
       ],
       "integration/*": [
         "./webapp/test/integration/*"
-      ]
+      ],
+            "cpro/js/ui5/mobx/*": ["./node_modules/ui5-mobx/src/cpro/js/ui5/mobx/*"]
+
     },
     "typeRoots": [
       "./node_modules/@types",
