@@ -66,6 +66,10 @@
         </VBox>
       </Panel>
 
+      <Panel>
+        <Button  text='Reset All' icon="sap-icon://refresh" press=".onResetAll"></Button>
+      </Panel>
+
     </content>
   </Page>
 </mvc:View>
